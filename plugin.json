@@ -1,11 +1,19 @@
-[
-  {
-    "name": "Truyện Dịch AI",
+{
+  "metadata": {
     "author": "Duongtnt97",
-    "version": "1.0.1",
-    "description": "Nguồn đọc truyện từ trang truyendich.space",
-    "url": "https://truyendich.space",
-    "icon": "https://truyendich.space",
-    "script": "Y29uc3QgYmFzZVVybCA9ICdodHRwczovL3RydXllbmRpY2guc3BhY2UnOwoKZnVuY3Rpb24gaG9tZSgpIHsKICAgIGNvbnN0IHJlc3BvbnNlID0gZmV0Y2goYmFzZVVybCk7CiAgICBjb25zdCBkb2MgPSBIVE1MLnBhcnNlKHJlc3BvbnNlKTsKICAgIGNvbnN0IGxpc3QgPSBbXTsKICAgIGRvYy5zZWxlY3QoJy5ncmlkIC5yZWxhdGl2ZScpLmZvckVhY2goZWwgPT4gewogICAgICAgIGNvbnN0IHRpdGxlRWwgPSBlbC5zZWxlY3QoJ2gzLCBhLmZvbnQtc2VtaWJvbGQnKTsKICAgICAgICBjb25zdCBsaW5rRWwgPSBlbC5zZWxlY3QoJ2MnKTsKICAgICAgICBjb25zdCBjb3ZlckVsID0gZWwuc2VsZWN0KCdpbWcnKTsKICAgICAgICBpZiAodGl0bGVFbCAmJiBsaW5rRWwpIHsKICAgICAgICAgICAgbGlzdC5wdXNoKHsKICAgICAgICAgICAgICAgIG5hbWU6IHRpdGxlRWwudGV4dCgpLnRyaW0oKSwKICAgICAgICAgICAgICAgIGxpbms6IGxpbmtFbC5hdHRyKCdocmVmJyksCiAgICAgICAgICAgICAgICBjb3ZlcjogY292ZXJFbCA/IGNvdmVyRWwuYXR0cignc3JjJykgOiAnJwogICAgICAgICAgICB9KTsKICAgICAgICB9CiAgICB9KTsKICAgIHJldHVybiBKU09OLnN0cmluZ2lmeShsaXN0KTsKfQoKZnVuY3Rpb24gZGV0YWlsKHVybCkgewogICAgY29uc3QgcmVzcG9uc2UgPSBmZXRjaCh1cmwpOwogICAgY29uc3QgZG9jID0gSFRNTC5wYXJzZShyZXNwb25zZSk7CiAgICBjb25zdCBjaGFwdGVycyA9IFtdOwogICAgZG9jLnNlbGVjdCgnYVtocmVmKj0iL2NodW9uZy0iXScpLmZvckVhY2goZWwgPT4gewogICAgICAgIGNoYXB0ZXJzLnB1c2goewogICAgICAgICAgICBuYW1lOiBlbC50ZXh0KCkudHJpbSgpLAogICAgICAgICAgICBsaW5rOiBlbC5hdHRyKCdocmVmJykKICAgICAgICB9KTsKICAgIHJldHVybiBKU09OLnN0cmluZ2lmeSh7CiAgICAgICAgbmFtZTogZG9jLnNlbGVjdCgnaDEnKS50ZXh0KCkudHJpbSgpLAogICAgICAgIGF1dGhvcjogZG9jLnNlbGVjdCgnLmF1dGhvciwgc3Bhbjpjb250YWlucygiVGFjIGdpYSIpLCBhW2hyZWYqPSIvdGFjLWdpYS8iXScpLnRleHQoKS50yaW0oKSB8fCAnVGFjIGdpYSBBSScsCiAgICAgICAgZGVzY3JpcHRpb246IGRvYy5zZWxlY3QoJy5zdW1tYXJ5LCAuZGVzY3JpcHRpb24sIC5wLWN0JykudGV4dCgpLnRyaW0oKSwKICAgICAgICBjaGFwdGVyczogY2hhcHRlcnMucmV2ZXJzZSgpCiAgICB9KTsKfQoKZnVuY3Rpb24gY2hhcHRlcih1cmwpIHsKICAgIGNvbnN0IHJlc3BvbnNlID0gZmV0Y2godXJsKTsKICAgIGNvbnN0IGRvYyA9IEhUTUwucGFyc2UocmVzcG9uc2UpOwogICAgY29uc3QgY29udGVudCA9IGRvYy5zZWxlY3QoJy5jaGFwdGVyLWNvbnRlbnQsIC5ub2ktZHVuZycsICNjaGFwdGVyLWN0JykuaHRtbCgpOwogICAgcmV0dXJuIGNvbnRlbnQgPyBjb250ZW50LnRyaW0oKSA6ICcnOwp9CgpmdW5jdGlvbiBzZWFyY2goa2V5d29yZCwgcGFnZSkgewogICAgY29uc3Qgc2VhcmNoVXJsID0gYCR7YmFzZVVybH0vdGltLWtpZW0/cT0ke2VuY29kZVVSSUNvbXBvbmVudChrZXl3b3JkKX0mcGFnZT0ke3BhZ2V9YDsKICAgIGNvbnN0IHJlc3BvbnNlID0gZmV0Y2goc2VhcmNoVXJsKTsKICAgIGNvbnN0IGRvYyA9IEhUTUwucGFyc2UocmVzcG9uc2UpOwogICAgY29uc3QgbGlzdCA9IFtdOwogICAgZG9jLnNlbGVjdCgnLmdyaWQgLnJlbGF0aXZlLCArLmdyaWQtaXRlbScpLmZvckVhY2goZWwgPT4gewogICAgICAgIGNvbnN0IHRpdGxlRWwgPSBlbC5zZWxlY3QoJ2gzLCBhJyk7CiAgICAgICAgY29uc3QgbGlzdGVwID0gZWwuc2VsZWN0KCdhJyk7CiAgICAgICAgaWYgKHRpdGxlRWwgJiYgbGlzdGVwKSB7CiAgICAgICAgICAgIGxpc3QucHVzaCh7CiAgICAgICAgICAgICAgICBuYW1lOiB0aXRsZUVsLnRleHQoKS50yaW0oKSwKICAgICAgICAgICAgICAgIGxpbms6IGxpc3RlcC5hdHRyKCdocmVmJyksCiAgICAgICAgICAgICAgICBjb3ZlcjogZWwuc2VsZWN0KCdpbWcnKSA/IGVsLnNlbGVjdCgnaW1nJykuYXR0cignc3JjJykgOiAnJwogICAgICAgICAgICB9KTsKICAgICAgICB9CiAgICB9KTsKICAgIHJldHVybiBKU09OLnN0cmluZ2lmeShsaXN0KTsKfQ=="
-  }
-]
+    "description": "Plugin đọc truyện từ trang truyendich.space"
+  },
+  "data": [
+    {
+      "name": "Truyện Dịch AI",
+      "author": "Duongtnt97",
+      "path": "https://raw.githubusercontent.com/Duongtnt97/vbookappcontent/main/plugin.zip",
+      "version": 1,
+      "source": "https://truyendich.space",
+      "icon": "https://truyendich.space/favicon.ico",
+      "description": "Nguồn đọc truyện từ trang truyendich.space",
+      "type": "novel",
+      "locale": "vi_VN"
+    }
+  ]
+}
